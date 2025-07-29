@@ -25,3 +25,4 @@ Data Warehouse — централизованное хранилище, в ко�
 
 #### 📌 Схема Data Analytics Architecture:
 
+![Схема Data Analytics Architecture](https://raw.githubusercontent.com/MBTaras/data-learn/main/DE-101/Module1/Архитектура%20Аналитического%20Решения/Data%20Analytics%20Architecture.drawio.png)
