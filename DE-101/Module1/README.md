@@ -48,6 +48,6 @@ Data Warehouse — централизованное хранилище, в ко�
 
 [Sample - Superstore(final).xlsx](https://github.com/MBTaras/data-learn/blob/main/DE-101/Module1/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20Excel/Sample%20-%20Superstore(final).xlsx)
 
-![Итоговые вариант Дашборда]()
+![Итоговые вариант Дашборда](https://github.com/MBTaras/data-learn/blob/main/DE-101/Module1/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20Excel/Dashboard.png?raw=true)
 
 
