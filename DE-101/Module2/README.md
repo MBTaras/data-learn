@@ -11,8 +11,9 @@
 ## Отработка практической часть из модуля 1 с помощью SQL 
 
 #### Создание и загрузка таблиц
-Для создания таблиц использовался код [create_tables.sql](#)
-все данные были загружены по примеру [DE - 101 Lab 2.1](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1)
+Для создания таблиц использовался код [create_tables.sql](https://github.com/MBTaras/data-learn/blob/main/DE-101/Module2/sql_queries/create_tables.sql)
+
+Все данные были загружены по примеру [DE - 101 Lab 2.1](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1)
 
 #### Аналитика с помощью SQL
 
@@ -33,4 +34,4 @@
 - Customer Ranking
 - Sales per region
 
-##### 📌 Весь SQL код [analysis_queries.sql](#)
+##### 📌 Весь SQL код [analysis_queries.sql](https://github.com/MBTaras/data-learn/blob/main/DE-101/Module2/sql_queries/analysis_queries.sql)
