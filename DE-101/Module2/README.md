@@ -35,3 +35,22 @@
 - Sales per region
 
 ##### 📌 Весь SQL код [analysis_queries.sql](https://github.com/MBTaras/data-learn/blob/main/DE-101/Module2/sql_queries/analysis_queries.sql)
+
+## Модели Данных
+
+В ходе практики было нарисовано модель данных для файла Superstore:
+- Концептуальную
+- Логическую
+- Физическую 
+
+##### 📌 Концептуальная:
+
+![Концептуальная](https://github.com/MBTaras/data-learn/blob/main/DE-101/Module2/data%20model/concept.png?raw=true)
+
+##### 📌 Логическая:
+
+![Логическая](https://github.com/MBTaras/data-learn/blob/main/DE-101/Module2/data%20model/logical.png?raw=true)
+
+##### 📌 Физическая:
+
+![Физическая](https://github.com/MBTaras/data-learn/blob/main/DE-101/Module2/data%20model/physical.png?raw=true)
